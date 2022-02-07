@@ -25,15 +25,15 @@ After that connecting the table (Port)(Table name) with github repositry through
 
 ## Screenshots 📸
 ### Home page -   
-![](images/Screenshot (26).png)
+![](images/Screenshot%20(26).png)
 ### About Section -
-![](images/Screenshot (27).png)
+![](images/Screenshot%20(27).png)
 ### Skills Section -
-![](images/Screenshot (28).png)
+![](images/Screenshot%20(28).png)
 ### Experience Section -
-![](images/Screenshot (29).png)
+![](images/Screenshot%20(29).png)
 ### Contact Page -
-![](images/Screenshot (30).png)
+![](images/Screenshot%20(30).png)
 
 ## Tech Stack used 💻
 
