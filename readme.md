@@ -5,10 +5,10 @@ This is a web based personal portfolio integrated with azure service and deploye
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://green-pebble-0c42f1810.1.azurestaticapps.net/
+**Project Link** - https://nice-grass-0c50d7210.1.azurestaticapps.net/
 
 
-**Demo Video** -  #
+**Demo Video** -  https://youtu.be/BlFanxecvA0
 
 ## Features and Synopsis 😃
 
