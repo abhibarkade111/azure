@@ -1,3 +1,10 @@
+Dear Sir/madam, by mistake i submit the wrong synopsis during project submission.
+Please evaluate my project and accep it, i have done hard work for this time approval.
+
+Statement: Personal portfolio website to provide professional information about me and showcase my work.
+Description: As i am in 3rd year, I have to apply for internships and jobs in company . To showcase my skills,projects in attractive way, i created this project using azure technolgies.
+Azure technologies: Static Web Apps , Azure SQL Database
+
 # ✨ Personal Portfolio  ✨
 
 This is a web based personal portfolio integrated with azure service and deployed on azure itself.
